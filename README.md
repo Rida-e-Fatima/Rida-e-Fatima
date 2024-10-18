@@ -1,5 +1,5 @@
 ![logo width="5000px"](https://i.pinimg.com/564x/6f/fc/f6/6ffcf69ffcc6b1e0bd5f5bc9a73cea1a.jpg)
-<h1 align="center">Asslam o Alaikum, I'm Rida-e-Fatima</h1>
+<h1 align="center">Asslam o Alaikum, I'm Chloe Alpertneon</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <img align="right" src="https://i.pinimg.com/564x/1a/75/eb/1a75ebc12e36d6cabedd7964d312b3ca.jpg" alt="coding" width="400px">
