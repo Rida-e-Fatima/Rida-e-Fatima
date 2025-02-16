@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQF-O3RUPG9jsg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739101094573?e=1745452800&v=beta&t=48mvv0ziqNGOXeMua2ATnbYFsEhbgewYmsGkXEYAVPQ" alt="Banner" width="100%"/>
 </p>
 
 <!-- Animated Greeting -->
