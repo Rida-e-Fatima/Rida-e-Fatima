@@ -6,7 +6,9 @@
 - 🌎 Exploring the endless world of technology
 * 💡 Constantly learning, building, and innovating
 
-
+🌟 Who Am I?
+🎭 A creative problem solver who loves to turn ideas into reality with code!
+🔍 Always curious, always exploring, always improving!
 
 
 
