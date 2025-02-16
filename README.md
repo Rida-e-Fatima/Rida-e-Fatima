@@ -4,7 +4,7 @@
 </p>
 
 <!-- Animated Greeting -->
-<h2 align="center"> Hey there! I'm <𝙔𝙤𝙪𝙧 𝙉𝙖𝙢𝙚> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h2>
+<h2 align="center"> Hey there! I'm Rida-E-Fatima (Digital Growth Pattner) is here.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h2>
 
 <!-- Typing Animation -->
 <p align="center">
