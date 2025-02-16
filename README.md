@@ -1,10 +1,3 @@
-![Banner](https://media.licdn.com/dms/image/v2/D4D16AQF-O3RUPG9jsg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739101094573?e=1745452800&v=beta&t=48mvv0ziqNGOXeMua2ATnbYFsEhbgewYmsGkXEYAVPQ)
-# 🎨 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
-
-```diff
-+ 🚀 Digital Growth Expert | Python Enthusiast | Problem Solver 
-- 🌎 Loves to turn ideas into reality with code!
-* 💡  Always curious, always exploring, always improving!
 
 <br><br>🔭 I’m currently working on some exciting web development projects.<br>👯 I’m looking to collaborate on innovative and open-source projects.<br>🤝 I’m open to learning from others and sharing my knowledge about web development.<br>🌱 I’m diving deeper into React.js and exploring cloud services like AWS.<br>💬 Feel free to ask me about web development, JavaScript, or anything tech-related!<br>⚡ Fun fact: I can probably debug code faster than finding my TV remote. 😄<br>Let’s connect and create something awesome!
 
