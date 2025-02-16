@@ -2,9 +2,9 @@
 # 🎨 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
 
 ```diff
-+ 🚀 Digital Growth Expert | Python Enthusiast | Problem Solver 
-- 🌎 Loves to turn ideas into reality with code!
-* 💡  Always curious, always exploring, always improving!
+ 🚀 Digital Growth Expert | Python Enthusiast | Problem Solver 
+ 🌎 Loves to turn ideas into reality with code!
+ 💡  Always curious, always exploring, always improving!
 
 ```
 
