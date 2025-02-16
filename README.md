@@ -2,13 +2,36 @@
 # 🎨 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
 
 ```diff
-+ 🚀 Passionate Developer | Tech Enthusiast | Innovator 
-- 🌎 Exploring the endless world of technology
-* 💡 Constantly learning, building, and innovating
++ 🚀 Digital Growth Expert | Python Enthusiast | Problem Solver 
+- 🌎 Loves to turn ideas into reality with code!
+* 💡  Always curious, always exploring, always improving!
 
-🌟 Who Am I?
-🎭 A creative problem solver who loves to turn ideas into reality with code!
-🔍 Always curious, always exploring, always improving!
+
+
+🛠 𝓜𝔂 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
+🚀 𝑺𝒌𝒊𝒍𝒍𝒔 𝑰 𝑩𝒓𝒊𝒏𝒈 𝑻𝒐 𝑻𝒉𝒆 𝑻𝒂𝒃𝒍𝒆:
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,django,git,github" /> </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
