@@ -6,38 +6,7 @@
 - 🌎 Loves to turn ideas into reality with code!
 * 💡  Always curious, always exploring, always improving!
 
-
-
-🛠 𝓜𝔂 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
-🚀 𝑺𝒌𝒊𝒍𝒍𝒔 𝑰 𝑩𝒓𝒊𝒏𝒈 𝑻𝒐 𝑻𝒉𝒆 𝑻𝒂𝒃𝒍𝒆:
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,django,git,github" /> </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 💫 About Me:
-Hey there! 👋<br>Welcome to my GitHub! I’m a web developer who loves creating clean, functional, and visually appealing websites. I enjoy solving problems with code and learning new technologies along the way.<br><br>🔭 I’m currently working on some exciting web development projects.<br>👯 I’m looking to collaborate on innovative and open-source projects.<br>🤝 I’m open to learning from others and sharing my knowledge about web development.<br>🌱 I’m diving deeper into React.js and exploring cloud services like AWS.<br>💬 Feel free to ask me about web development, JavaScript, or anything tech-related!<br>⚡ Fun fact: I can probably debug code faster than finding my TV remote. 😄<br>Let’s connect and create something awesome!
+<br><br>🔭 I’m currently working on some exciting web development projects.<br>👯 I’m looking to collaborate on innovative and open-source projects.<br>🤝 I’m open to learning from others and sharing my knowledge about web development.<br>🌱 I’m diving deeper into React.js and exploring cloud services like AWS.<br>💬 Feel free to ask me about web development, JavaScript, or anything tech-related!<br>⚡ Fun fact: I can probably debug code faster than finding my TV remote. 😄<br>Let’s connect and create something awesome!
 
 
 ## 🌐 Socials:
