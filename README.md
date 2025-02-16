@@ -4,12 +4,12 @@
 </p>
 
 <!-- Animated Greeting -->
-<h2 align="center"> Hey there! I'm Rida-E-Fatima (Digital Growth Pattner) is here.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h2>
+<h2 align="center"> Hey there! I'm Rida-E-Fatima (Digital Growth Patner) is here.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h2>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/your-github-profile">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F700&center=true&width=435&lines=🚀+Digital+Growth+Expert;💡+Always+Exploring+and+Improving!;👨‍💻+Web+Development+|+Python+Enthusiast;🌱+Exploring+React.js+%26+Cloud+Tech" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F700&center=true&width=535&lines=🚀+Digital+Growth+Expert;💡+Always+Exploring+and+Improving!;👨‍💻+Web+Development+|+Python+Enthusiast;🌱+Exploring+React.js+%26+Cloud+Tech" alt="Typing Animation" />
   </a>
 </p>
 
