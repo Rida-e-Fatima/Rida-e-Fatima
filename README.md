@@ -41,7 +41,7 @@
 📊 **My GitHub Stats:**  
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=Rida-e-Fatima&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rida-e-Fatima&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 🔥 **Most Used Languages:**  
